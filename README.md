@@ -3,6 +3,8 @@
 
 https://qmarsun.github.io/-Velum-Mayilum/
 
+https://pranava007.github.io/-Velum-Mayilum/
+
 # Todo as of  July 6 2022
 - all photos should be white background
 - all the image should show same size 
