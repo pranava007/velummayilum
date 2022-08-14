@@ -5,12 +5,12 @@ https://qmarsun.github.io/-Velum-Mayilum/
 
  https://pranava007.github.io/velummayilum/
 
- Completed work by Pranav
- Complete work by Prava - Aug 14 2022
- re - image size 
- added in tamil title
- added google forms
  
+ # Complete work by Prava - Aug 14 2022
+- re - image size 
+- added in tamil title
+- added google forms
+
 
 
 # Todo as of  July 6 2022
