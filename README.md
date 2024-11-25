@@ -1,25 +1,12 @@
 # -Velum-Mayilum
 
 
-https://qmarsun.github.io/-Velum-Mayilum/
+Deploy Link : https://srivelummayilum.netlify.app
 
- https://pranava007.github.io/velummayilum/
+Home based business  (9 products) order management
 
- 
- # Complete work by Prava - Aug 14 2022
-- re - image size 
-- added in tamil title
-- added google forms
+Single page Website development and hosting using GitHub 
 
+Google form is developed and integrated for order management
 
-
-# Todo as of  July 6 2022
-- all photos should be white background
-- all the image should show same size 
-- Add good description
-- Add good details 
-- Add name of the product in Tamil
-
-
-# Previous status
-July 6 2022: First POC version  v0.00001 is done 
+HTML css Google response form
